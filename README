@@ -1,7 +1,4 @@
-Barbu Rodica Andreea - Grupa 322CC
-Grad dificultate: mediu
-Timpul alocat rezolvarii: 35-40 ore
-Am implementat clasa generica ArrayMap ca o colectie de obiecte ArrayMapEntry, avand o clasa
+  Am implementat clasa generica ArrayMap ca o colectie de obiecte ArrayMapEntry, avand o clasa
 inclusa ArrayMapEntry. Clasa este existinsa de UserVoucherMap si CampaignVoucherMap, ele 
 reprezentat colectia de dictionare. Clase User, Notification, Campaign reprezinta clase de 
 baza si implementeaza atributele si metodele cerute. Clasa Voucher este o clasa abstracata 
@@ -9,7 +6,7 @@ ce contine atributele cerute in enunt si este apoi implementata de GiftVoucher s
 LoyalityVoucher. Clasa VMS este clasa care modeleaza colectia de date VMS si este caracterizata 
 de multimea de campanii existente si de utilizatorii care po primi vouchere, ea implementeaza 
 operatiile cerute.
-Clasa Test contine metoda main, ea citeste fiecare fisier si adauga campaniile si utilizatorii 
+  Clasa Test contine metoda main, ea citeste fiecare fisier si adauga campaniile si utilizatorii 
 in VMS, apoi pentru fiecare eveniment din fisierul events.txt realizeaza operatia ceruta.
-Clasa VMS foloseste sablonul de proiectare Singleton pattern, clasa User si Campaign folosesc 
+  Clasa VMS foloseste sablonul de proiectare Singleton pattern, clasa User si Campaign folosesc 
 Observer pattern.
